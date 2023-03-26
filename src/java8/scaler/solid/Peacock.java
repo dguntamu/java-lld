@@ -1,4 +1,4 @@
-package java8.scaler.bird;
+package java8.scaler.solid;
 
 public class Peacock extends Bird implements BirdFlyInterface, BirdDance{
     public void fly(){

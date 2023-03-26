@@ -3,7 +3,7 @@ package java8.scaler.prototype;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PrototypeRegistry {
+public class StudentRegistry {
     Map<String,Student> map = new HashMap<>();
 
     public void save(Student student){

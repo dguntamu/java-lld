@@ -1,0 +1,14 @@
+1.) Out come of each point in every project
+2.) Quantify the pints (days or user effected) etc
+3.) Add tech stack along with tools worked on each project
+4.) Dont mention tools in Tech Stach section
+5.) Add Proficiency , Familier sections in Tech Stack section
+6.) share my bullet point to chatGpt and use the words appropriatly
+7.) Highlight in bullet points of tech stack
+8.) Overleaf Deedy CV.
+9.) killer Software Engineering résumé.
+
+
+//Assignment -> Booking type on a plane -> Business, Premium, Economy.
+//Each have 3 sets of features, seattype, food menu and drinks menu
+// depending on the booking type chosen, create the ticket object with internal 3 set of features.

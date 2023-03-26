@@ -1,4 +1,4 @@
-package java8.scaler.bird;
+package java8.scaler.solid;
 
 public class Sparrow extends Bird implements BirdFlyInterface{
 

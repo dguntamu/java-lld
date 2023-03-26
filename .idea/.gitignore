@@ -1,3 +1,4 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+out/production/practice/java8/*.class
