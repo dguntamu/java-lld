@@ -1,4 +1,4 @@
-package java8.scaler.factory.components;
+package java8.scaler.factory;
 
 public class Flutter {
     private SupportedPlatforms supportedPlatforms;

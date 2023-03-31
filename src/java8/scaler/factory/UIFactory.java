@@ -1,4 +1,4 @@
-package java8.scaler.factory.components;
+package java8.scaler.factory;
 
 import java8.scaler.factory.components.button.Button;
 import java8.scaler.factory.components.dropdown.DropDown;

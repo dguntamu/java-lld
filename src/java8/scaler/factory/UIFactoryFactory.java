@@ -1,4 +1,4 @@
-package java8.scaler.factory.components;
+package java8.scaler.factory;
 
 public class UIFactoryFactory {
     public static UIFactory createUIFactory(SupportedPlatforms supportedPlatforms){

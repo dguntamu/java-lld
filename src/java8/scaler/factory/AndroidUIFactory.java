@@ -1,7 +1,7 @@
-package java8.scaler.factory.components;
+package java8.scaler.factory;
 
-import java8.scaler.factory.components.button.AndroidButton;
 import java8.scaler.factory.components.button.Button;
+import java8.scaler.factory.components.button.AndroidButton;
 import java8.scaler.factory.components.dropdown.AndroidDropDown;
 import java8.scaler.factory.components.dropdown.DropDown;
 import java8.scaler.factory.components.menu.AndroidMenu;
