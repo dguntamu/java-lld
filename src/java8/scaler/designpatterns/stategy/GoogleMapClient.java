@@ -6,3 +6,7 @@ public class GoogleMapClient {
         map.findPath("HYD","MUMBAI",TypeOfModeEnum.BIKE);
     }
 }
+/*
+mmutables -> package in Java
+Record -> replaces Immutables
+ */
