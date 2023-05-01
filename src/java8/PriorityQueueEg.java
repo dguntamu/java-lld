@@ -1,5 +1,6 @@
 package java8;
 
+import java.util.Arrays;
 import java.util.PriorityQueue;
 
 public class PriorityQueueEg {
@@ -17,5 +18,11 @@ public class PriorityQueueEg {
 //        System.out.println(pq.poll());
 
         System.out.println(pq);
+    }
+}
+class Test{
+    public String test(){
+        int[] a = new int[5];
+        return Arrays.toString(a);
     }
 }
